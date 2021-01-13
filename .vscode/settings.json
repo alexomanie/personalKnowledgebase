@@ -9,6 +9,8 @@
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
